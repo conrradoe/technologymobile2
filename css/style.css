@@ -1,0 +1,5 @@
+.message.info {
+border: 1px solid #bbdbe0;
+background: #ecf9ff url('images/info.gif') no-repeat 12px 12px;
+color: #0888c3
+}
